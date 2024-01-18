@@ -1,0 +1,11 @@
+
+Nome: pinto
+Quantia Inicial: 9000000
+Nome: tito
+Quantia Inicial: 2323232
+Nome: orlando
+Quantia Inicial: 876631
+Nome: necas
+Quantia Inicial: 54000
+Nome: Lena
+Quantia Inicial: 1750.0
